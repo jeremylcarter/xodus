@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>Istnieje problem z serwerami firmy Microsoft. Spróbuj ponownie później.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>Najpopularniejsze</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>Przeglądaj najpopularniejsze filmy</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Dalej</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Nie</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Nie znaleziono źródła</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Zoon zakupu</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>Anuluj</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>Wyszukaj</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>Wyszukaj</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Sezon</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Wersja próbna wygasła</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Wersja próbna wygasła</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>Mamy nadzieję, że cieszył się swoim doświadczeniem z Zoon. Jeśli chcesz nadal używać tego produktu, kliknij przycisk 'Zakupu Zoon' poniżej.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Idź kupić Zoon w sklepie</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>Dostępna aktualizacja</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Aktualizacja w toku</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Aktualizacje są dostępne. Teraz zainstalować?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Tak</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Stawka 5 gwiazdek</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>Anuluj</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Twoja opinia jest kluczem do poprawy Ta niesamowita aplikacja. Jeśli często korzystać z tej aplikacji i korzystać z jego funkcji, przejdź do sklepu i dać nam wielkie Ocena ze sprzężeniem zwrotnym!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Zoon stawki</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Ładowanie</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>Najbardziej popularne filmy</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>Najbardziej popularnych telewizyjnych</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>Najczęściej oceniane filmy</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Wyszukaj filmy</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Szukaj telewizji</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Sieci telewizji</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Ładowanie</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Ładowania źródła z </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>Aby odtworzyć ten film, zezwolenie jest wymagane. Odwiedź poniższy link i kliknij 'Para' do autoryzowania tego urządzenia z tego dostawcy. Jeśli nie chcesz, aby para, kliknij przycisk 'Anuluj', aby próbować innych źródeł.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Wymagana autoryzacja</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Anuluj</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Ponów próbę</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>W porządku</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Użyj</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Wybierz plik z napisami</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Ładowanie napisów</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Szukaj napisów podczas odtwarzania</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Wybieranie języka</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Ustawienia</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>Sezonu, żądanych przez Ciebie jest kiedyś w przyszłości. Ta aplikacja nie jest dobre!!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Trybie testowym</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Zoon zakup wyłączania reklamy</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Po źródeł, które wymagają parowanie. Uwaga: Większość High Definition zawartość pochodzi z tych dostawców, ich wyłączenie ograniczy możliwości</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>Obserwowane</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Filmy</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>Programy telewizyjne</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Dodane do listy obserwowanych</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Dodaj do listy obserwowanych</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Usuń z listy obserwowanych</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Dodaj do listy obserwowanych</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>informacje</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Po źródeł, które wymagają parowanie</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Nowe filmy</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Zwycięzców Oscara</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Film Gatunki</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Filmy</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>Telewizja</value>
+  </data>
+</root>

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>마이크로소프트의 서버에 문제가 있다. 나중에 다시 시도 합니다.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>인기 항목</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>가장 인기 있는 영화를 찾아보기</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>아니요</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>아무 소스 발견</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Xodus 구매</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>검색</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>검색</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>계절 </value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>평가판 만료</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>평가판 만료</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>우리는 Xodus와 함께 귀하의 경험을 즐겁게 했습니다 바랍니다. 계속이 제품을 사용 하려는 경우 아래 ' Xodus 구매 '를 클릭 합니다.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>구매 상점에서 Xodus가</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>업데이트 사용 가능</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>업데이트 진행 중</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>업데이트를 사용할 수 있습니다. 지금 설치?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>예</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>별 5 개를 평가</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>귀하의 의견은이 멋진 응용 프로그램을 개선 하기 위해 중요 합니다. 이 애플 리 케이이 션을 자주 사용 하 고 그것의 기능을 즐길 수 있는 상점에가 고 우리에 게 피드백 좋은 등급!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>속도 Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>로드</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>가장 인기 있는 영화</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>가장 인기 있는 텔레비전</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>대부분 영화 투표</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>영화 검색</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>검색 텔레비전</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>텔레비전 네트워크</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>로드</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>소스에서 로드 </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>이 비디오를 재생 하려면 권한 부여가 필요 합니다. 아래 링크를 방문 하 고 '쌍'이 공급자와 함께이 장치를 인증을 클릭 합니다. 당신이 하지 않으려면 쌍, 다른 소스를 ' 취소'를 클릭 합니다.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>필요한 권한 부여</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>다시 시도</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>확인</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>사용</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>자막 파일 선택</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>로드 자막</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>자막 재생을 시작할 때 검색</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>언어 선택</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>요청 하 신 시즌은 언젠가 미래에. 이 애플 리 케이이 션 좋은 하지 않습니다!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>시험 모드</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>광고 하지 않으려면 구매 Xodus</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>페어링 필요로 하는 소스를 사용 합니다. 참고: 대부분 고화질 콘텐츠 이러한 공급자에서 온다, 옵션 제한 됩니다 사용 하지</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>내 관심 목록</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>영화</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>텔레비전 쇼</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>주시 문서 목록에 추가</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>주시 문서 목록에 추가</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>주시 문서 목록에서 제거</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>주시 문서 목록에 추가</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>정보</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>연락처</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>페어링 필요로 하는 소스를 활성화</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>새로운 영화</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>오스카 수 상자</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>영화 장르</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>영화</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>텔레비전</value>
+  </data>
+</root>

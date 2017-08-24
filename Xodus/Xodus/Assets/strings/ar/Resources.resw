@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>هناك مشكلة مع خوادم Microsoft. حاول مرة أخرى لاحقاً.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>الأكثر شيوعاً</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>استعراض الأفلام الأكثر شعبية</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>التالي</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>مصادر لم يتم العثور على</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>شراء إكسودوس</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>إلغاء الأمر</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>بحث</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>بحث</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>الموسم</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>انتهت المحاكمة</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>انتهت المحاكمة</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>ونأمل كنت تتمتع تجربتك مع إكسودوس. إذا كنت ترغب في متابعة استخدام هذا المنتج، انقر فوق '"شراء إكسودوس"' أدناه.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>الذهاب شراء إكسودوس في مخزن</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>التحديث متوفر</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>التحديث قيد التقدم</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>التحديثات متوفرة. هل تريد تثبيته الآن؟</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>معدل 5 نجوم</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>إلغاء الأمر</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>الملاحظات الخاصة بك أمر بالغ الأهمية لتحسين هذا التطبيق رهيبة. إذا كان يمكنك استخدام هذا التطبيق في كثير من الأحيان، والاستمتاع بأنها وظيفة، اذهب إلى المتجر وتعطينا تقديراً كبيرا مع ردود الفعل!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>معدل إكسودوس</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>تحميل</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>الأفلام الأكثر شعبية</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>التلفزيون الأكثر شعبية</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>وصوت معظم الأفلام</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>البحث عن الأفلام</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>البحث عن التلفزيون</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>شبكات التلفزيون</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>تحميل</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>تحميل المصادر من </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>لتشغيل هذا الفيديو، إذن مطلوب. قم بزيارة الرابط أدناه وانقر فوق 'زوج' أن تأذن لهذا الجهاز مع هذا الموفر. إذا كنت لا ترغب في زوج، انقر فوق 'إلغاء الأمر' لمحاولة مصادر أخرى.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>الإذن اللازم</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>إلغاء الأمر</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>إعادة المحاولة</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>موافق</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>استخدام</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>حدد ملف الترجمة</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>تحميل ترجمات</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>البحث عن الترجمة عند بدء التشغيل</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>حدد لغة</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>إعدادات</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>الموسم التي طلبتها في وقت ما في المستقبل. هذا التطبيق ليست على ما يرام!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>وضع المحاكمة</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>إكسودوس الشراء لتعطيل إعلانات</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>تمكين المصادر التي تتطلب المزاوجة. ملاحظة: معظم "عالية الوضوح" المحتوى يأتي من مقدمي هذه الخدمات، تعطيل لهم ستحد من الخيارات الخاصة بك</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>قائمة متابعة الأسهم</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>‏‏أفلام</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>البرامج التلفزيونية</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>وأضاف أن هيئة الرصد</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>إضافة إلى الرصد</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>إزالة من قائمة</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>إضافة إلى الرصد</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>حول</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>جهة الاتصال</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>تمكين المصادر التي تتطلب المزاوجة</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>أفلام جديدة</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>الفائزين بجائزة أوسكار</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>فيلم الجنس الأدبي</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>‏‏أفلام</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>‏‏التلفاز</value>
+  </data>
+</root>

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>Ada masalah dengan server Microsoft. Coba lagi nanti.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>Paling Populer</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>Melihat isi film paling populer</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Berikutnya</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Tidak</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Sumber-sumber tidak ditemukan</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Membeli Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>Batal</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>Cari</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>Cari</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Musim</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Persidangan kadaluarsa</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Persidangan kadaluarsa</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>Kami harap Anda telah menikmati pengalaman Anda dengan Xodus. Jika Anda ingin terus menggunakan produk ini, klik 'Pembelian Xodus' di bawah ini.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Pergi membeli Xodus di toko</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>Tersedia Pembaruan</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Memperbarui berlangsung</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Pembaruan tersedia. Instal sekarang?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Ya</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Tingkat 5 bintang</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>Batal</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Umpan balik Anda sangat penting untuk peningkatan aplikasi ini awesome. Jika Anda sering menggunakan aplikasi ini dan menikmati itu fungsi, pergi ke toko dan memberi kita yang besar peringkat dengan umpan balik!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Tingkat Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Pemuatan</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>Film paling populer</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>Televisi paling populer</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>Sebagian memilih film</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Cari film</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Cari televisi</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Jaringan televisi</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Pemuatan</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Loading sumber dari </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>Untuk memutar video ini, diperlukan otorisasi. Kunjungi link di bawah dan klik 'Pasangan' untuk mengotorisasi perangkat ini dengan penyedia ini. Jika Anda tidak ingin pasangan, klik 'Batal' untuk mencoba sumber-sumber lain.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Otorisasi diperlukan</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Batal</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Coba Lagi</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>Oke</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Gunakan</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Pilih File subjudul</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Loading sub judul</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Mencari sub judul ketika memulai pemutaran</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Pilih bahasa</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Pengaturan</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>Musim yang Anda minta adalah kadang-kadang di masa depan. Aplikasi ini tidak baik!!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Percobaan Mode</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Pembelian Xodus untuk menonaktifkan iklan</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Mengaktifkan sumber yang memerlukan pemasangan. Catatan: Definisi tinggi kebanyakan konten berasal dari penyedia jasa ini, melumpuhkan mereka akan membatasi pilihan Anda</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>Daftartonton saya</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Film</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>Acara televisi</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Ditambahkan ke Daftartonton</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Tambahkan ke Daftartonton</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Hapus dari Daftartonton</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Tambahkan ke Daftartonton</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>Tentang</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Kontak</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Mengaktifkan sumber yang memerlukan pemasangan</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Film baru</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Pemenang Oscar</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Genre film</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Film</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>Televisi</value>
+  </data>
+</root>

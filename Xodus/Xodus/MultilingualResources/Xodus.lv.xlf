@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="lv" original="XODUS/ASSETS/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6799.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="XODUS/ASSETS/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="MicrosoftServer" translate="yes" xml:space="preserve">
+          <source>There is a problem with Microsoft's servers. Try again later.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pastāv problēma ar Microsoft serveriem. Vēlāk mēģiniet vēlreiz.</target>
+        </trans-unit>
+        <trans-unit id="MostPopular" translate="yes" xml:space="preserve">
+          <source>Most Popular</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Populārākie</target>
+        </trans-unit>
+        <trans-unit id="MostPopularDescription" translate="yes" xml:space="preserve">
+          <source>Browse the most popular movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pārlūkot populārākās filmas</target>
+        </trans-unit>
+        <trans-unit id="Next" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Tālāk</target>
+        </trans-unit>
+        <trans-unit id="NO" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Nē</target>
+        </trans-unit>
+        <trans-unit id="NoSources" translate="yes" xml:space="preserve">
+          <source>No Sources Found</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nav atrasti avoti</target>
+        </trans-unit>
+        <trans-unit id="Purchase.Content" translate="yes" xml:space="preserve">
+          <source>Purchase Xodus</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Iepirkuma Xodus</target>
+        </trans-unit>
+        <trans-unit id="SearchDialogCancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Atcelt</target>
+        </trans-unit>
+        <trans-unit id="SearchDialogOK" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Meklēt</target>
+        </trans-unit>
+        <trans-unit id="SearchDialogTitle" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Meklēt</target>
+        </trans-unit>
+        <trans-unit id="Season" translate="yes" xml:space="preserve">
+          <source>Season</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Sezona</target>
+        </trans-unit>
+        <trans-unit id="TrialExpired.Text" translate="yes" xml:space="preserve">
+          <source>Trial Expired</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Izmēģinājuma versijas derīgums</target>
+        </trans-unit>
+        <trans-unit id="TrialExpiredCaption" translate="yes" xml:space="preserve">
+          <source>Trial Expired</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Izmēģinājuma versijas derīgums</target>
+        </trans-unit>
+        <trans-unit id="TrialExpiredContent.Text" translate="yes" xml:space="preserve">
+          <source>We hope you've enjoyed your experience with Xodus. If you want to continue using this product, click 'Purchase Xodus' below.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Mēs ceram, ka jums patika jūsu pieredze ar Xodus. Ja vēlaties turpināt izmantot šo produktu, noklikšķiniet uz 'Iepirkuma Xodus' zemāk.</target>
+        </trans-unit>
+        <trans-unit id="TrialExpiredText" translate="yes" xml:space="preserve">
+          <source>Go purchase Xodus in the store</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Iet pirkt veikalā Xodus</target>
+        </trans-unit>
+        <trans-unit id="UpdateCaption" translate="yes" xml:space="preserve">
+          <source>Update Available</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Pieejams atjauninājums</target>
+        </trans-unit>
+        <trans-unit id="UpdateProgress.Text" translate="yes" xml:space="preserve">
+          <source>Update in progress</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Notiek atjaunināšana</target>
+        </trans-unit>
+        <trans-unit id="UpdateText" translate="yes" xml:space="preserve">
+          <source>Updates are available. Install now?</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Atjauninājumi ir pieejami. Instalēt tūlīt?</target>
+        </trans-unit>
+        <trans-unit id="YES" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Jā</target>
+        </trans-unit>
+        <trans-unit id="RateButton" translate="yes" xml:space="preserve">
+          <source>Rate 5 Stars</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kursu 5 zvaigznes</target>
+        </trans-unit>
+        <trans-unit id="RateCancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Atcelt</target>
+        </trans-unit>
+        <trans-unit id="RateContent" translate="yes" xml:space="preserve">
+          <source>Your feedback is critical to improving this awesome application. If you use this app often and enjoy it's functionality, go to the store and give us a great rating with feedback!</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Jūsu atsauksmes ir izšķirīga, lai uzlabot šo awesome pieteikumu. Ja bieži izmantojat šo app un baudīt to funkcionalitāti, iet uz veikalu un dod mums liels reitings ar atsauksmi!</target>
+        </trans-unit>
+        <trans-unit id="RateTitle" translate="yes" xml:space="preserve">
+          <source>Rate Xodus</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kursa Xodus</target>
+        </trans-unit>
+        <trans-unit id="Loading.Text" translate="yes" xml:space="preserve">
+          <source>Loading</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Notiek ielāde</target>
+        </trans-unit>
+        <trans-unit id="MostPopularMovies" translate="yes" xml:space="preserve">
+          <source>Most Popular Movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Populārākās filmas</target>
+        </trans-unit>
+        <trans-unit id="MostPopularTelevision" translate="yes" xml:space="preserve">
+          <source>Most Popular Television</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Populārākās televīzijas</target>
+        </trans-unit>
+        <trans-unit id="MostVotedMovies" translate="yes" xml:space="preserve">
+          <source>Most Voted Movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Lielākā daļa nobalsoja Movies</target>
+        </trans-unit>
+        <trans-unit id="SearchAllMovies" translate="yes" xml:space="preserve">
+          <source>Search Movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Meklēt filmu</target>
+        </trans-unit>
+        <trans-unit id="SearchAllTelevision" translate="yes" xml:space="preserve">
+          <source>Search Television</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Meklēšanas televīzijas</target>
+        </trans-unit>
+        <trans-unit id="TelevisionNetworks" translate="yes" xml:space="preserve">
+          <source>Television Networks</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Televīzijas kanālos</target>
+        </trans-unit>
+        <trans-unit id="LoadingText.Text" translate="yes" xml:space="preserve">
+          <source>Loading</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Notiek ielāde</target>
+        </trans-unit>
+        <trans-unit id="LoadingSources" translate="yes" xml:space="preserve">
+          <source>Loading sources from </source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ielāde no avotiem </target>
+        </trans-unit>
+        <trans-unit id="PairContent.Text" translate="yes" xml:space="preserve">
+          <source>To play this video, authorization is required. Visit the link below and click 'Pair' to authorize this device with this provider. If you do not wish to pair, click 'Cancel' to attempt other sources.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Lai demonstrētu šo video, ir nepieciešama atļauja. Apmeklējiet šo saiti un noklikšķiniet uz 'Savienotu pārī' Atļaut šai ierīcei ar šo pakalpojumu sniedzēju. Ja nevēlaties, lai pāri, noklikšķiniet uz Atcelt, lai mēģinātu citu avotu.</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="AuthorizationRequired" translate="yes" xml:space="preserve">
+          <source>Authorization Required</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Atļaujas izsniegšanai, kas nepieciešama</target>
+        </trans-unit>
+        <trans-unit id="Cancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Atcelt</target>
+        </trans-unit>
+        <trans-unit id="Retry" translate="yes" xml:space="preserve">
+          <source>Retry</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Mēģināt vēlreiz</target>
+        </trans-unit>
+        <trans-unit id="OK" translate="yes" xml:space="preserve">
+          <source>Okay</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Labi</target>
+        </trans-unit>
+        <trans-unit id="Use" translate="yes" xml:space="preserve">
+          <source>Use</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Lietot</target>
+        </trans-unit>
+        <trans-unit id="SubsTitle" translate="yes" xml:space="preserve">
+          <source>Select Subtitle File</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Atlasiet failu, apakšvirsraksts</target>
+        </trans-unit>
+        <trans-unit id="LoadingSubtitles" translate="yes" xml:space="preserve">
+          <source>Loading subtitles</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ielādējot subtitri</target>
+        </trans-unit>
+        <trans-unit id="EnableSubtitles.Text" translate="yes" xml:space="preserve">
+          <source>Search for subtitles when starting playback</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Meklētu subtitrus, ja sākas atskaņošana</target>
+        </trans-unit>
+        <trans-unit id="SelectLanguage.Text" translate="yes" xml:space="preserve">
+          <source>Select Language</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Valodas atlasīšana</target>
+        </trans-unit>
+        <trans-unit id="Settings.Text" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Iestatījumi</target>
+        </trans-unit>
+        <trans-unit id="UpcomingSeason" translate="yes" xml:space="preserve">
+          <source>The season you've requested is sometime in the future. This app isn't that good!!</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Jūs esat pieprasījis sezona ir kādreiz nākotnē. Šo app isn't tik labi!</target>
+        </trans-unit>
+        <trans-unit id="TrialModeCaption" translate="yes" xml:space="preserve">
+          <source>Trial Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Izmēģinājuma režīmā</target>
+        </trans-unit>
+        <trans-unit id="TrialModeContent" translate="yes" xml:space="preserve">
+          <source>Purchase Xodus to disable advertisments</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Iepirkuma Xodus atslēgt reklāmas</target>
+        </trans-unit>
+        <trans-unit id="PairedProvider.Text" translate="yes" xml:space="preserve">
+          <source>Enable sources that require pairing. Note: Most High Definition content comes from these providers, Disabling them will limit your options</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Aktivizēt avotus, kas pieprasa savienošanu pārī. Piezīme: Vairums augstas izšķirtspējas saturu, kas nāk no šiem providers, tos atspējojot ierobežo jūsu iespējas</target>
+        </trans-unit>
+        <trans-unit id="Favorites" translate="yes" xml:space="preserve">
+          <source>My Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Uzraudzības saraksts</target>
+        </trans-unit>
+        <trans-unit id="Movies" translate="yes" xml:space="preserve">
+          <source>Movies</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Filmas</target>
+        </trans-unit>
+        <trans-unit id="Television" translate="yes" xml:space="preserve">
+          <source>Television Shows</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Televīzijas pārraides</target>
+        </trans-unit>
+        <trans-unit id="AddedWatchlist" translate="yes" xml:space="preserve">
+          <source>Added to watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pievienota watchlist</target>
+        </trans-unit>
+        <trans-unit id="AddToWatchlist.Text" translate="yes" xml:space="preserve">
+          <source>Add to Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pievienotu Watchlist</target>
+        </trans-unit>
+        <trans-unit id="RemoveFromWatchlist" translate="yes" xml:space="preserve">
+          <source>Remove from Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Noņemt no Watchlist</target>
+        </trans-unit>
+        <trans-unit id="AddToWatchlistReal" translate="yes" xml:space="preserve">
+          <source>Add to Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pievienotu Watchlist</target>
+        </trans-unit>
+        <trans-unit id="About.Text" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Par</target>
+        </trans-unit>
+        <trans-unit id="Contact.Text" translate="yes" xml:space="preserve">
+          <source>Contact</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Kontaktpersona</target>
+        </trans-unit>
+        <trans-unit id="PairedProvider2.Text" translate="yes" xml:space="preserve">
+          <source>Enable Sources that require pairing</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Aktivizētu avotu, kas pieprasa savienošanu pārī</target>
+        </trans-unit>
+        <trans-unit id="NewMovies" translate="yes" xml:space="preserve">
+          <source>New Movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Jaunas filmas</target>
+        </trans-unit>
+        <trans-unit id="BestPicture" translate="yes" xml:space="preserve">
+          <source>Oscar Winners</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Oscar uzvarētāju</target>
+        </trans-unit>
+        <trans-unit id="MovieGenres" translate="yes" xml:space="preserve">
+          <source>Movie Genres</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Filmu žanri</target>
+        </trans-unit>
+        <trans-unit id="MoviesPage" translate="yes" xml:space="preserve">
+          <source>Movies</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Filmas</target>
+        </trans-unit>
+        <trans-unit id="TelevisionPage" translate="yes" xml:space="preserve">
+          <source>Television</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Televīzija</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

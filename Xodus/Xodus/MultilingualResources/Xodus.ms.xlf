@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="ms" original="XODUS/ASSETS/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6799.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="XODUS/ASSETS/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="MicrosoftServer" translate="yes" xml:space="preserve">
+          <source>There is a problem with Microsoft's servers. Try again later.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Terdapat masalah dengan pelayan Microsoft. Cuba lagi nanti.</target>
+        </trans-unit>
+        <trans-unit id="MostPopular" translate="yes" xml:space="preserve">
+          <source>Most Popular</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Paling Popular</target>
+        </trans-unit>
+        <trans-unit id="MostPopularDescription" translate="yes" xml:space="preserve">
+          <source>Browse the most popular movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Lihat senarai filem paling popular</target>
+        </trans-unit>
+        <trans-unit id="Next" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Seterusnya</target>
+        </trans-unit>
+        <trans-unit id="NO" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Tidak</target>
+        </trans-unit>
+        <trans-unit id="NoSources" translate="yes" xml:space="preserve">
+          <source>No Sources Found</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tiada sumber ditemui</target>
+        </trans-unit>
+        <trans-unit id="Purchase.Content" translate="yes" xml:space="preserve">
+          <source>Purchase Xodus</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Xodus pembelian</target>
+        </trans-unit>
+        <trans-unit id="SearchDialogCancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Batal</target>
+        </trans-unit>
+        <trans-unit id="SearchDialogOK" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Cari</target>
+        </trans-unit>
+        <trans-unit id="SearchDialogTitle" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Cari</target>
+        </trans-unit>
+        <trans-unit id="Season" translate="yes" xml:space="preserve">
+          <source>Season</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Musim</target>
+        </trans-unit>
+        <trans-unit id="TrialExpired.Text" translate="yes" xml:space="preserve">
+          <source>Trial Expired</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tamat tempoh percubaan</target>
+        </trans-unit>
+        <trans-unit id="TrialExpiredCaption" translate="yes" xml:space="preserve">
+          <source>Trial Expired</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tamat tempoh percubaan</target>
+        </trans-unit>
+        <trans-unit id="TrialExpiredContent.Text" translate="yes" xml:space="preserve">
+          <source>We hope you've enjoyed your experience with Xodus. If you want to continue using this product, click 'Purchase Xodus' below.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kami berharap anda telah menikmati pengalaman anda dengan Xodus. Jika anda ingin terus menggunakan produk ini, klik 'Beli Xodus' di bawah.</target>
+        </trans-unit>
+        <trans-unit id="TrialExpiredText" translate="yes" xml:space="preserve">
+          <source>Go purchase Xodus in the store</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pergi beli Xodus di kedai</target>
+        </trans-unit>
+        <trans-unit id="UpdateCaption" translate="yes" xml:space="preserve">
+          <source>Update Available</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Kemas Kini Tersedia</target>
+        </trans-unit>
+        <trans-unit id="UpdateProgress.Text" translate="yes" xml:space="preserve">
+          <source>Update in progress</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kemaskini Terakhir dijalankan</target>
+        </trans-unit>
+        <trans-unit id="UpdateText" translate="yes" xml:space="preserve">
+          <source>Updates are available. Install now?</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pengemaskinian tersedia. Memasang sekarang?</target>
+        </trans-unit>
+        <trans-unit id="YES" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Ya</target>
+        </trans-unit>
+        <trans-unit id="RateButton" translate="yes" xml:space="preserve">
+          <source>Rate 5 Stars</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kadar 5 bintang</target>
+        </trans-unit>
+        <trans-unit id="RateCancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Batal</target>
+        </trans-unit>
+        <trans-unit id="RateContent" translate="yes" xml:space="preserve">
+          <source>Your feedback is critical to improving this awesome application. If you use this app often and enjoy it's functionality, go to the store and give us a great rating with feedback!</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Maklum balas anda adalah penting untuk meningkatkan aplikasi ini menggerunkan. Jika anda menggunakan aplikasi ini kerap dan menikmati fungsi itu, pergi ke kedai dan memberikan penarafan yang hebat dengan maklum balas kepada kami!</target>
+        </trans-unit>
+        <trans-unit id="RateTitle" translate="yes" xml:space="preserve">
+          <source>Rate Xodus</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kadar Xodus</target>
+        </trans-unit>
+        <trans-unit id="Loading.Text" translate="yes" xml:space="preserve">
+          <source>Loading</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Memuatkan</target>
+        </trans-unit>
+        <trans-unit id="MostPopularMovies" translate="yes" xml:space="preserve">
+          <source>Most Popular Movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Filem paling Popular</target>
+        </trans-unit>
+        <trans-unit id="MostPopularTelevision" translate="yes" xml:space="preserve">
+          <source>Most Popular Television</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Televisyen paling Popular</target>
+        </trans-unit>
+        <trans-unit id="MostVotedMovies" translate="yes" xml:space="preserve">
+          <source>Most Voted Movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kebanyakan memilih filem</target>
+        </trans-unit>
+        <trans-unit id="SearchAllMovies" translate="yes" xml:space="preserve">
+          <source>Search Movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Carian filem</target>
+        </trans-unit>
+        <trans-unit id="SearchAllTelevision" translate="yes" xml:space="preserve">
+          <source>Search Television</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Cari televisyen</target>
+        </trans-unit>
+        <trans-unit id="TelevisionNetworks" translate="yes" xml:space="preserve">
+          <source>Television Networks</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Rangkaian televisyen</target>
+        </trans-unit>
+        <trans-unit id="LoadingText.Text" translate="yes" xml:space="preserve">
+          <source>Loading</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Memuatkan</target>
+        </trans-unit>
+        <trans-unit id="LoadingSources" translate="yes" xml:space="preserve">
+          <source>Loading sources from </source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Memuatkan sumber-sumber dari </target>
+        </trans-unit>
+        <trans-unit id="PairContent.Text" translate="yes" xml:space="preserve">
+          <source>To play this video, authorization is required. Visit the link below and click 'Pair' to authorize this device with this provider. If you do not wish to pair, click 'Cancel' to attempt other sources.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Untuk memainkan video ini, kebenaran adalah diperlukan. Lawati pautan di bawah dan klik 'Pasangan' untuk membenarkan peranti ini dengan pembekal ini. Jika anda tidak mahu pasangan, klik 'Batal' untuk cuba sumber-sumber lain.</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="AuthorizationRequired" translate="yes" xml:space="preserve">
+          <source>Authorization Required</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kebenaran yang diperlukan</target>
+        </trans-unit>
+        <trans-unit id="Cancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Batal</target>
+        </trans-unit>
+        <trans-unit id="Retry" translate="yes" xml:space="preserve">
+          <source>Retry</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Cuba semula</target>
+        </trans-unit>
+        <trans-unit id="OK" translate="yes" xml:space="preserve">
+          <source>Okay</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Okey</target>
+        </trans-unit>
+        <trans-unit id="Use" translate="yes" xml:space="preserve">
+          <source>Use</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Guna</target>
+        </trans-unit>
+        <trans-unit id="SubsTitle" translate="yes" xml:space="preserve">
+          <source>Select Subtitle File</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pilih fail sarikata</target>
+        </trans-unit>
+        <trans-unit id="LoadingSubtitles" translate="yes" xml:space="preserve">
+          <source>Loading subtitles</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Memuatkan sari kata</target>
+        </trans-unit>
+        <trans-unit id="EnableSubtitles.Text" translate="yes" xml:space="preserve">
+          <source>Search for subtitles when starting playback</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Mencari sari kata semasa memulakan main balik</target>
+        </trans-unit>
+        <trans-unit id="SelectLanguage.Text" translate="yes" xml:space="preserve">
+          <source>Select Language</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pilih Bahasa</target>
+        </trans-unit>
+        <trans-unit id="Settings.Text" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Seting</target>
+        </trans-unit>
+        <trans-unit id="UpcomingSeason" translate="yes" xml:space="preserve">
+          <source>The season you've requested is sometime in the future. This app isn't that good!!</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Musim yang anda minta adalah kadang-kadang di masa depan. Aplikasi ini tidak pandai!!</target>
+        </trans-unit>
+        <trans-unit id="TrialModeCaption" translate="yes" xml:space="preserve">
+          <source>Trial Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Mod percubaan</target>
+        </trans-unit>
+        <trans-unit id="TrialModeContent" translate="yes" xml:space="preserve">
+          <source>Purchase Xodus to disable advertisments</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Xodus pembelian untuk mematikan iklan</target>
+        </trans-unit>
+        <trans-unit id="PairedProvider.Text" translate="yes" xml:space="preserve">
+          <source>Enable sources that require pairing. Note: Most High Definition content comes from these providers, Disabling them will limit your options</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Membolehkan sumber-sumber yang memerlukan berpasangan. Nota: Kebanyakan definisi tinggi kandungan datang daripada pembekal ini, mereka tidak akan menghadkan pilihan anda</target>
+        </trans-unit>
+        <trans-unit id="Favorites" translate="yes" xml:space="preserve">
+          <source>My Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Senarai Amatan Saya</target>
+        </trans-unit>
+        <trans-unit id="Movies" translate="yes" xml:space="preserve">
+          <source>Movies</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Filem</target>
+        </trans-unit>
+        <trans-unit id="Television" translate="yes" xml:space="preserve">
+          <source>Television Shows</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Rancangan televisyen</target>
+        </trans-unit>
+        <trans-unit id="AddedWatchlist" translate="yes" xml:space="preserve">
+          <source>Added to watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ditambah ke Senarai perhatian</target>
+        </trans-unit>
+        <trans-unit id="AddToWatchlist.Text" translate="yes" xml:space="preserve">
+          <source>Add to Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tambah ke Senarai perhatian</target>
+        </trans-unit>
+        <trans-unit id="RemoveFromWatchlist" translate="yes" xml:space="preserve">
+          <source>Remove from Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Alih keluar dari Senarai perhatian</target>
+        </trans-unit>
+        <trans-unit id="AddToWatchlistReal" translate="yes" xml:space="preserve">
+          <source>Add to Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tambah ke Senarai perhatian</target>
+        </trans-unit>
+        <trans-unit id="About.Text" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Perihal</target>
+        </trans-unit>
+        <trans-unit id="Contact.Text" translate="yes" xml:space="preserve">
+          <source>Contact</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Kenalan</target>
+        </trans-unit>
+        <trans-unit id="PairedProvider2.Text" translate="yes" xml:space="preserve">
+          <source>Enable Sources that require pairing</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Membolehkan sumber-sumber yang memerlukan berpasangan</target>
+        </trans-unit>
+        <trans-unit id="NewMovies" translate="yes" xml:space="preserve">
+          <source>New Movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Filem baru</target>
+        </trans-unit>
+        <trans-unit id="BestPicture" translate="yes" xml:space="preserve">
+          <source>Oscar Winners</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Pemenang Oscar</target>
+        </trans-unit>
+        <trans-unit id="MovieGenres" translate="yes" xml:space="preserve">
+          <source>Movie Genres</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Genre filem</target>
+        </trans-unit>
+        <trans-unit id="MoviesPage" translate="yes" xml:space="preserve">
+          <source>Movies</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Filem</target>
+        </trans-unit>
+        <trans-unit id="TelevisionPage" translate="yes" xml:space="preserve">
+          <source>Television</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Televisyen</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

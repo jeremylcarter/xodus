@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>Tam je problém s servery spoločnosti Microsoft. Skúste znova neskôr.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>Najobľúbenejšie</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>Prehľadávať najobľúbenejšie filmy</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Ďalej</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Nie</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Žiadne zdroje nájdených</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Nákup Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>Zrušiť</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>Hľadať</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>Hľadať</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Séria</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Skúšobné lehota uplynula</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Skúšobné lehota uplynula</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>Dúfame, že si užil svoje skúsenosti s Xodus. Ak chcete pokračovať v používaní tohto produktu, kliknite na "Nákup Xodus" nižšie.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Ísť kúpiť Xodus v obchode</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>K dispozícii je aktualizácia</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Prebieha aktualizácia</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Aktualizácie sú k dispozícii. Nainštalovať teraz?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Áno</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Kurz 5 hviezdičiek</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>Zrušiť</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Vaša spätná väzba je veľmi dôležité pre zlepšenie tejto úžasnej aplikácie. Ak často používate túto aplikáciu a vychutnať si jeho funkčnosť, ísť do obchodu a nám skvelé ohodnotenie spätnú väzbu!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Miera Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Načítavanie</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>Najobľúbenejšie filmy</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>Najobľúbenejší televízie</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>Most hlasovalo filmy</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Vyhľadávanie filmov</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Hľadať televízie</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Televízne programy</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Načítavanie</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Načítanie zdroje z </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>Ak chcete prehrať toto video, je potrebné povolenie. Navštívte nižšie uvedený odkaz a kliknite na "Pár" povoliť zariadenie s týmto poskytovateľom. Ak si neželáte, aby dvojica, kliknite na tlačidlo Zrušiť, ak chcete pokus iných zdrojov.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Povolenia požadované</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Zrušiť</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Znova</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Použiť</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Vyberte súbor titulkov</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Načítanie titulkov</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Hľadať titulky pri spustení prehrávania</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Výber jazyka</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Nastavenia</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>Sezóna požiadate je niekedy v budúcnosti. Táto aplikácia nie je tak dobrý!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Skúšobný režim</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Nákup Xodus zakázať reklamy</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Umožňujú zdrojov, ktoré vyžadujú spárovanie. Poznámka: Väčšina High Definition obsah pochádza z týchto poskytovateľov, zakázať obmedzí vaše možnosti</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>Môj zoznam sledovaných položiek</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Filmy</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>Televízne relácie</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Pridá do zoznamu sledovaných</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Pridať do zoznamu sledovaných</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Odstrániť zo zoznamu sledovaných</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Pridať do zoznamu sledovaných</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value> - informácie</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Umožniť zdrojov, ktoré vyžadujú spárovanie</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Nové filmy</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Oscar víťaza</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Film Žánry</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Filmy</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>Televízia</value>
+  </data>
+</root>

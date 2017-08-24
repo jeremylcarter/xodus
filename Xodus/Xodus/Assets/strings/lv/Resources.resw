@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>Pastāv problēma ar Microsoft serveriem. Vēlāk mēģiniet vēlreiz.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>Populārākie</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>Pārlūkot populārākās filmas</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Tālāk</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Nē</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Nav atrasti avoti</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Iepirkuma Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>Atcelt</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>Meklēt</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>Meklēt</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Sezona</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Izmēģinājuma versijas derīgums</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Izmēģinājuma versijas derīgums</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>Mēs ceram, ka jums patika jūsu pieredze ar Xodus. Ja vēlaties turpināt izmantot šo produktu, noklikšķiniet uz 'Iepirkuma Xodus' zemāk.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Iet pirkt veikalā Xodus</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>Pieejams atjauninājums</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Notiek atjaunināšana</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Atjauninājumi ir pieejami. Instalēt tūlīt?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Jā</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Kursu 5 zvaigznes</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>Atcelt</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Jūsu atsauksmes ir izšķirīga, lai uzlabot šo awesome pieteikumu. Ja bieži izmantojat šo app un baudīt to funkcionalitāti, iet uz veikalu un dod mums liels reitings ar atsauksmi!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Kursa Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Notiek ielāde</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>Populārākās filmas</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>Populārākās televīzijas</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>Lielākā daļa nobalsoja Movies</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Meklēt filmu</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Meklēšanas televīzijas</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Televīzijas kanālos</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Notiek ielāde</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Ielāde no avotiem </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>Lai demonstrētu šo video, ir nepieciešama atļauja. Apmeklējiet šo saiti un noklikšķiniet uz 'Savienotu pārī' Atļaut šai ierīcei ar šo pakalpojumu sniedzēju. Ja nevēlaties, lai pāri, noklikšķiniet uz Atcelt, lai mēģinātu citu avotu.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Atļaujas izsniegšanai, kas nepieciešama</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Atcelt</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Mēģināt vēlreiz</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>Labi</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Lietot</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Atlasiet failu, apakšvirsraksts</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Ielādējot subtitri</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Meklētu subtitrus, ja sākas atskaņošana</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Valodas atlasīšana</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Iestatījumi</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>Jūs esat pieprasījis sezona ir kādreiz nākotnē. Šo app isn't tik labi!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Izmēģinājuma režīmā</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Iepirkuma Xodus atslēgt reklāmas</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Aktivizēt avotus, kas pieprasa savienošanu pārī. Piezīme: Vairums augstas izšķirtspējas saturu, kas nāk no šiem providers, tos atspējojot ierobežo jūsu iespējas</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>Uzraudzības saraksts</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Filmas</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>Televīzijas pārraides</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Pievienota watchlist</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Pievienotu Watchlist</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Noņemt no Watchlist</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Pievienotu Watchlist</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>Par</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Kontaktpersona</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Aktivizētu avotu, kas pieprasa savienošanu pārī</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Jaunas filmas</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Oscar uzvarētāju</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Filmu žanri</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Filmas</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>Televīzija</value>
+  </data>
+</root>

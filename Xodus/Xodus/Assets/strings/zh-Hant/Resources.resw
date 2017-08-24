@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>還有一個問題與微軟的伺服器。稍後再試。</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>最熱門</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>流覽最受歡迎的電影</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>下一個</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>發現沒有源</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>購買 Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>搜尋</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>搜尋</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>季</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>試用過期</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>試用過期</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>我們希望你過得開心 Xodus 您的體驗。如果你想要繼續使用此產品，請按一下下面的購買 Xodus'。</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>去購買存儲區中的 Xodus</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>已有更新可用</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>更新正在進行中</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>有可用的更新。現在安裝嗎？</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>率為 5 星</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>您的回饋對提高這個令人敬畏的應用至關重要。如果您經常使用這一程式，並享受它的功能，去商店，給我們偉大的評級與回饋 ！</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>率 Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>載入</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>最受歡迎的電影</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>最受歡迎的電視</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>大多數投票電影</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>搜尋電影</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>搜索電視</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>電視網路</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>載入</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>從載入源</value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>若要播放這段視頻，授權是必需的。訪問下面的連結，並按一下 '對' 授權此設備與此提供程式。如果你不想為一對，請按一下取消嘗試其他的來源。</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>所需的授權</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>重試</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>確定</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>使用</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>選擇字幕檔</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>載入字幕</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>搜索字幕時開始播放</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>選取語言</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>你所要求的季節是什麼時候在將來。這款軟體並不是很好!!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>審判方式</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>購買 Xodus 禁用廣告</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>啟用源要求配對。注意︰ 大多數高清晰度內容來自這些提供程式，禁用它們，將會限制您的選擇</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>我的關注清單</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>電影</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>電視節目</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>添加到監看清單</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>將添加到監看清單</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>從名單中刪除</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>將添加到監看清單</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>關於</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>連絡人</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>啟用源要求配對</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>新電影</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>奧斯卡獎得主</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>電影流派</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>電影</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>電視</value>
+  </data>
+</root>

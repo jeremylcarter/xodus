@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="Xodus.NavigationPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Xodus"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <local:UpperFormatter x:Key="UppercaseFormatter" />
+        <DataTemplate x:Key="NavigationTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding FormattedName}" />
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Key="MovieTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding FormattedEpisode}" />
+                <TextBlock Margin="5,0,0,0" Text="{Binding Name}" />
+            </StackPanel>
+        </DataTemplate>
+        <DataTemplate x:Key="SourceList">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontWeight="SemiLight"
+                           Text="{Binding VideoSource, Converter={StaticResource UppercaseFormatter}}" Width="100" />
+                <TextBlock FontWeight="Bold" Margin="5,0,0,0" Text="{Binding SourceName}" />
+                <TextBlock Margin="5,0,0,0" Text="{Binding VideoSourceName}" />
+            </StackPanel>
+        </DataTemplate>
+    </Page.Resources>
+    <Grid Background="Transparent" Margin="0,75,0,0">
+        <ListView x:Name="NavList" HorizontalAlignment="Left" VerticalAlignment="Top"
+                  IsItemClickEnabled="True"
+                  TabIndex="1"
+                  SelectionMode="Single"
+                  ItemTemplate="{StaticResource NavigationTemplate}"
+                  ItemClick="NavList_ItemClick"
+                  SelectionChanged="NavList_SelectionChanged"
+                  Width="500" />
+    </Grid>
+</Page>

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>Немає проблем із серверами Microsoft. Повторіть спробу пізніше.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>Популярні</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>Огляд найпопулярніших кінофільмів</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Далі</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Ні</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Немає джерел знайшов</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Купівля Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>Скасувати</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>Пошук</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>Пошук</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Сезон</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Суд закінчився</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Суд закінчився</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>Ми сподіваємося, вам сподобалася ваш досвід з Xodus. Щоб продовжити використання цього продукту, натисніть кнопку 'Придбання Xodus' нижче.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Йти покупки в магазині Xodus</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>Доступне оновлення</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Триває оновлення</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Оновлення доступні. Встановити зараз?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Так</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Ставка 5 зірочок</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>Скасувати</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Ваша думка має вирішальне значення для поліпшення цього awesome застосування. Якщо ви часто використовувати цей додаток і насолоджуватися його функціональність, піти в магазин і дати нам великі рейтинги зі зворотним зв'язком!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Xodus швидкість</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Завантаження</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>Найбільш популярні фільми</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>Найбільш популярних телевізійних</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>Більшість проголосувала фільми</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Пошук фільмів</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Пошук телебачення</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Телевізійних мереж</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Завантаження</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Завантаження джерел з </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>Грати в цьому відео, дозвіл не потрібно. Відвідати посилання нижче і натисніть кнопку "Пара", щоб дозволити цей пристрій з цього постачальника. Якщо ви не бажаєте пара, натисніть кнопку "Скасувати", щоб спробувати інші джерела.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Потрібна авторизація</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Скасувати</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Повторити спробу</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>Гаразд</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Використання</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Виберіть файл субтитрів</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Завантаження субтитри</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Шукати субтитри, після початку відтворення</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Виберіть мову</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>Сезон, ви просили є деякий час у майбутньому. Цей застосунок не так добре!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Випробувальному режимі</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Купівля Xodus вимкнути оголошення</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Увімкнути джерел, які вимагають спаровування. Примітка: Більшість високої роздільної здатності контенту походить від цих провайдерів, відключивши їх буде обмежувати ваші варіанти</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>Мій список спостереження</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Фільми</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>Телевізійні шоу</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Додано до списку спостереження</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Додати до списку спостереження</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Видалити зі списку спостереження</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Додати до списку спостереження</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>Про програму</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Контактна особа</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Увімкнути джерел, які вимагають спаровування</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Нові фільми</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Переможців Оскара</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Жанри кіно</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Фільми</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>Телебачення</value>
+  </data>
+</root>

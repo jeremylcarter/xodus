@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>Er is een probleem met de servers van Microsoft. Probeer het later opnieuw.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>Meest populair</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>Bladeren van de meest populaire films</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Volgende</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Nee</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Geen bronnen gevonden</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Aankoop Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>Annuleren</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>Zoeken</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>Zoeken</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Seizoen</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Verhoor vervallen</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Verhoor vervallen</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>We hopen dat je hebt genoten van uw ervaring met Xodus. Als u doorgaan met het gebruik van dit product wilt, klikt u op 'Aankoop Xodus' hieronder.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Ga Xodus in de winkel kopen</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>Update beschikbaar</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Update wordt uitgevoerd</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Updates zijn beschikbaar. Nu installeren?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Stem op 5 sterren</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>Annuleren</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Uw feedback is cruciaal voor de verbetering van deze geweldige applicatie. Als u vaak gebruik van deze app en geniet van het functionaliteit, ga naar de winkel en geven ons een grote rating met feedback!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Tarief Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Bezig met laden..</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>Meest populaire films</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>Meest populaire televisie</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>Meeste gestemd films</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Films zoeken</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Zoek televisie</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Televisienetwerken</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Bezig met laden..</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Laden van de bronnen van </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>Om deze video niet afspelen, is toelating vereist. Bezoek de link hieronder en klik op 'Pair' voor het machtigen van dit apparaat met deze provider. Als u niet te paar wenst, klikt u op 'Annuleren' om te proberen andere bronnen.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Autorisatie vereist</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Annuleren</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Opnieuw</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Gebruiken</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Selecteer ondertitelbestand</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Laden van ondertitels</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Zoek voor ondertiteling tijdens het afspelen starten</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Selecteer taal</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>Het seizoen die u hebt aangevraagd is ergens in de toekomst. Dit app is niet zo goed!!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Proefmodus</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Aankoop Xodus advertisments uitschakelen</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Bronnen die Vereis koppeling inschakelen. Opmerking: De meeste High Definition inhoud afkomstig is van deze providers, ontredderen zij Beperk uw opties</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>Mijn volglijst</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Films</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>Televisieprogramma 's</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Toegevoegd aan watchlist</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Voeg toe aan Watchlist</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Verwijderen uit de Watchlist</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Voeg toe aan Watchlist</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Contactpersoon</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Bronnen die Vereis koppeling inschakelen</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Nieuwe films</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Oscar winnaars</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Film Genres</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Films</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>Televisie</value>
+  </data>
+</root>

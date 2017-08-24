@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="tr" original="XODUS/ASSETS/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6799.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="XODUS/ASSETS/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="MicrosoftServer" translate="yes" xml:space="preserve">
+          <source>There is a problem with Microsoft's servers. Try again later.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Microsoft'un sunucularında bir sorun vardır. Daha sonra yeniden deneyin.</target>
+        </trans-unit>
+        <trans-unit id="MostPopular" translate="yes" xml:space="preserve">
+          <source>Most Popular</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">En Popüler</target>
+        </trans-unit>
+        <trans-unit id="MostPopularDescription" translate="yes" xml:space="preserve">
+          <source>Browse the most popular movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">İnsanlar en popüler filmler</target>
+        </trans-unit>
+        <trans-unit id="Next" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">İleri</target>
+        </trans-unit>
+        <trans-unit id="NO" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Hayır</target>
+        </trans-unit>
+        <trans-unit id="NoSources" translate="yes" xml:space="preserve">
+          <source>No Sources Found</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Hiçbir kaynağı bulundu</target>
+        </trans-unit>
+        <trans-unit id="Purchase.Content" translate="yes" xml:space="preserve">
+          <source>Purchase Xodus</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Satın alma Xodus</target>
+        </trans-unit>
+        <trans-unit id="SearchDialogCancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">İptal</target>
+        </trans-unit>
+        <trans-unit id="SearchDialogOK" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Ara</target>
+        </trans-unit>
+        <trans-unit id="SearchDialogTitle" translate="yes" xml:space="preserve">
+          <source>Search</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Ara</target>
+        </trans-unit>
+        <trans-unit id="Season" translate="yes" xml:space="preserve">
+          <source>Season</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Sezon</target>
+        </trans-unit>
+        <trans-unit id="TrialExpired.Text" translate="yes" xml:space="preserve">
+          <source>Trial Expired</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Deneme süresi</target>
+        </trans-unit>
+        <trans-unit id="TrialExpiredCaption" translate="yes" xml:space="preserve">
+          <source>Trial Expired</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Deneme süresi</target>
+        </trans-unit>
+        <trans-unit id="TrialExpiredContent.Text" translate="yes" xml:space="preserve">
+          <source>We hope you've enjoyed your experience with Xodus. If you want to continue using this product, click 'Purchase Xodus' below.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Umarız Xodus deneyiminizi memnun kaldım. Bu ürünü kullanmaya devam etmek istiyorsanız, 'Satın alma Xodus' altında'ı tıklatın.</target>
+        </trans-unit>
+        <trans-unit id="TrialExpiredText" translate="yes" xml:space="preserve">
+          <source>Go purchase Xodus in the store</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Xodus mağaza satın gitmek</target>
+        </trans-unit>
+        <trans-unit id="UpdateCaption" translate="yes" xml:space="preserve">
+          <source>Update Available</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Güncelleştirme Var</target>
+        </trans-unit>
+        <trans-unit id="UpdateProgress.Text" translate="yes" xml:space="preserve">
+          <source>Update in progress</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Güncelleme devam ediyor</target>
+        </trans-unit>
+        <trans-unit id="UpdateText" translate="yes" xml:space="preserve">
+          <source>Updates are available. Install now?</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Güncelleştirmeler var. Şimdi yüklemek?</target>
+        </trans-unit>
+        <trans-unit id="YES" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Evet</target>
+        </trans-unit>
+        <trans-unit id="RateButton" translate="yes" xml:space="preserve">
+          <source>Rate 5 Stars</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Oranı 5 yıldız</target>
+        </trans-unit>
+        <trans-unit id="RateCancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">İptal</target>
+        </trans-unit>
+        <trans-unit id="RateContent" translate="yes" xml:space="preserve">
+          <source>Your feedback is critical to improving this awesome application. If you use this app often and enjoy it's functionality, go to the store and give us a great rating with feedback!</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Görüşlerinizi bu korku veren uygulama geliştirmek için önemlidir. Eğer sen kullanma bu app kez ve bu işlevselliği zevk, markete git ve bize geri bildirim ile büyük bir derece vermek!</target>
+        </trans-unit>
+        <trans-unit id="RateTitle" translate="yes" xml:space="preserve">
+          <source>Rate Xodus</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Oranı Xodus</target>
+        </trans-unit>
+        <trans-unit id="Loading.Text" translate="yes" xml:space="preserve">
+          <source>Loading</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Yükleme</target>
+        </trans-unit>
+        <trans-unit id="MostPopularMovies" translate="yes" xml:space="preserve">
+          <source>Most Popular Movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">En popüler filmler</target>
+        </trans-unit>
+        <trans-unit id="MostPopularTelevision" translate="yes" xml:space="preserve">
+          <source>Most Popular Television</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">En popüler televizyon</target>
+        </trans-unit>
+        <trans-unit id="MostVotedMovies" translate="yes" xml:space="preserve">
+          <source>Most Voted Movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Çoğu Filmler oy</target>
+        </trans-unit>
+        <trans-unit id="SearchAllMovies" translate="yes" xml:space="preserve">
+          <source>Search Movies</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Filmleri Ara</target>
+        </trans-unit>
+        <trans-unit id="SearchAllTelevision" translate="yes" xml:space="preserve">
+          <source>Search Television</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Arama televizyon</target>
+        </trans-unit>
+        <trans-unit id="TelevisionNetworks" translate="yes" xml:space="preserve">
+          <source>Television Networks</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Televizyon ağları</target>
+        </trans-unit>
+        <trans-unit id="LoadingText.Text" translate="yes" xml:space="preserve">
+          <source>Loading</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Yükleme</target>
+        </trans-unit>
+        <trans-unit id="LoadingSources" translate="yes" xml:space="preserve">
+          <source>Loading sources from </source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kaynaklardan gelen yükleme </target>
+        </trans-unit>
+        <trans-unit id="PairContent.Text" translate="yes" xml:space="preserve">
+          <source>To play this video, authorization is required. Visit the link below and click 'Pair' to authorize this device with this provider. If you do not wish to pair, click 'Cancel' to attempt other sources.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Bu videoyu oynatmak için yetkilendirme gereklidir. Aşağıdaki bağlantıyı ziyaret edin ve 'çifti' Bu sağlayıcı bu cihazla yetkilendirmek için'i tıklatın. Çifti istiyorsanız, 'diğer kaynaklardan girişimi için İptal' i tıklatın.</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="AuthorizationRequired" translate="yes" xml:space="preserve">
+          <source>Authorization Required</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Yetkilendirme gerekli</target>
+        </trans-unit>
+        <trans-unit id="Cancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">İptal</target>
+        </trans-unit>
+        <trans-unit id="Retry" translate="yes" xml:space="preserve">
+          <source>Retry</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Yeniden dene</target>
+        </trans-unit>
+        <trans-unit id="OK" translate="yes" xml:space="preserve">
+          <source>Okay</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Tamam</target>
+        </trans-unit>
+        <trans-unit id="Use" translate="yes" xml:space="preserve">
+          <source>Use</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Kullan</target>
+        </trans-unit>
+        <trans-unit id="SubsTitle" translate="yes" xml:space="preserve">
+          <source>Select Subtitle File</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Altyazı dosyası seçin</target>
+        </trans-unit>
+        <trans-unit id="LoadingSubtitles" translate="yes" xml:space="preserve">
+          <source>Loading subtitles</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Altyazılar yükleme</target>
+        </trans-unit>
+        <trans-unit id="EnableSubtitles.Text" translate="yes" xml:space="preserve">
+          <source>Search for subtitles when starting playback</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Kayıttan yürütme başlatma sırasında Altyazılar için arama</target>
+        </trans-unit>
+        <trans-unit id="SelectLanguage.Text" translate="yes" xml:space="preserve">
+          <source>Select Language</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Dil Seç</target>
+        </trans-unit>
+        <trans-unit id="Settings.Text" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Ayarlar</target>
+        </trans-unit>
+        <trans-unit id="UpcomingSeason" translate="yes" xml:space="preserve">
+          <source>The season you've requested is sometime in the future. This app isn't that good!!</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">İstediğiniz bir ara gelecekte mevsimidir. Bu app o kadar iyi değildir!</target>
+        </trans-unit>
+        <trans-unit id="TrialModeCaption" translate="yes" xml:space="preserve">
+          <source>Trial Mode</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Duruşma tarz</target>
+        </trans-unit>
+        <trans-unit id="TrialModeContent" translate="yes" xml:space="preserve">
+          <source>Purchase Xodus to disable advertisments</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Satınalma Xodus reklamlar devre dışı bırakmak için</target>
+        </trans-unit>
+        <trans-unit id="PairedProvider.Text" translate="yes" xml:space="preserve">
+          <source>Enable sources that require pairing. Note: Most High Definition content comes from these providers, Disabling them will limit your options</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Eşleştirme gerektirir kaynakları sağlar. Not: En yüksek içerik bu sağlayıcılar gelir tanımı, onları devre dışı seçeneklerinizi sınırlar</target>
+        </trans-unit>
+        <trans-unit id="Favorites" translate="yes" xml:space="preserve">
+          <source>My Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">İzleme Listem</target>
+        </trans-unit>
+        <trans-unit id="Movies" translate="yes" xml:space="preserve">
+          <source>Movies</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Filmler</target>
+        </trans-unit>
+        <trans-unit id="Television" translate="yes" xml:space="preserve">
+          <source>Television Shows</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Televizyon programları</target>
+        </trans-unit>
+        <trans-unit id="AddedWatchlist" translate="yes" xml:space="preserve">
+          <source>Added to watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Watchlist için eklendi</target>
+        </trans-unit>
+        <trans-unit id="AddToWatchlist.Text" translate="yes" xml:space="preserve">
+          <source>Add to Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Watchlist için Ekle</target>
+        </trans-unit>
+        <trans-unit id="RemoveFromWatchlist" translate="yes" xml:space="preserve">
+          <source>Remove from Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Watchlist kaldırmak</target>
+        </trans-unit>
+        <trans-unit id="AddToWatchlistReal" translate="yes" xml:space="preserve">
+          <source>Add to Watchlist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Watchlist için Ekle</target>
+        </trans-unit>
+        <trans-unit id="About.Text" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Hakkında</target>
+        </trans-unit>
+        <trans-unit id="Contact.Text" translate="yes" xml:space="preserve">
+          <source>Contact</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">İlgili kişi</target>
+        </trans-unit>
+        <trans-unit id="PairedProvider2.Text" translate="yes" xml:space="preserve">
+          <source>Enable Sources that require pairing</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Eşleştirme gerektirir kaynakları etkinleştirmek</target>
+        </trans-unit>
+        <trans-unit id="NewMovies" translate="yes" xml:space="preserve">
+          <source>New Movies</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Yeni filmler</target>
+        </trans-unit>
+        <trans-unit id="BestPicture" translate="yes" xml:space="preserve">
+          <source>Oscar Winners</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Oscar kazanan</target>
+        </trans-unit>
+        <trans-unit id="MovieGenres" translate="yes" xml:space="preserve">
+          <source>Movie Genres</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Film Tarzlar</target>
+        </trans-unit>
+        <trans-unit id="MoviesPage" translate="yes" xml:space="preserve">
+          <source>Movies</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Filmler</target>
+        </trans-unit>
+        <trans-unit id="TelevisionPage" translate="yes" xml:space="preserve">
+          <source>Television</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Televizyon</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

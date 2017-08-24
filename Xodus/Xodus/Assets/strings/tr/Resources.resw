@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>Microsoft'un sunucularında bir sorun vardır. Daha sonra yeniden deneyin.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>En Popüler</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>İnsanlar en popüler filmler</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>İleri</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Hiçbir kaynağı bulundu</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Satın alma Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>Ara</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>Ara</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Sezon</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Deneme süresi</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Deneme süresi</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>Umarız Xodus deneyiminizi memnun kaldım. Bu ürünü kullanmaya devam etmek istiyorsanız, 'Satın alma Xodus' altında'ı tıklatın.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Xodus mağaza satın gitmek</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>Güncelleştirme Var</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Güncelleme devam ediyor</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Güncelleştirmeler var. Şimdi yüklemek?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Oranı 5 yıldız</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Görüşlerinizi bu korku veren uygulama geliştirmek için önemlidir. Eğer sen kullanma bu app kez ve bu işlevselliği zevk, markete git ve bize geri bildirim ile büyük bir derece vermek!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Oranı Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Yükleme</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>En popüler filmler</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>En popüler televizyon</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>Çoğu Filmler oy</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Filmleri Ara</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Arama televizyon</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Televizyon ağları</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Yükleme</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Kaynaklardan gelen yükleme </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>Bu videoyu oynatmak için yetkilendirme gereklidir. Aşağıdaki bağlantıyı ziyaret edin ve 'çifti' Bu sağlayıcı bu cihazla yetkilendirmek için'i tıklatın. Çifti istiyorsanız, 'diğer kaynaklardan girişimi için İptal' i tıklatın.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Yetkilendirme gerekli</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Yeniden dene</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>Tamam</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Kullan</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Altyazı dosyası seçin</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Altyazılar yükleme</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Kayıttan yürütme başlatma sırasında Altyazılar için arama</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Dil Seç</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>İstediğiniz bir ara gelecekte mevsimidir. Bu app o kadar iyi değildir!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Duruşma tarz</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Satınalma Xodus reklamlar devre dışı bırakmak için</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Eşleştirme gerektirir kaynakları sağlar. Not: En yüksek içerik bu sağlayıcılar gelir tanımı, onları devre dışı seçeneklerinizi sınırlar</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>İzleme Listem</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Filmler</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>Televizyon programları</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Watchlist için eklendi</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Watchlist için Ekle</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Watchlist kaldırmak</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Watchlist için Ekle</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>Hakkında</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>İlgili kişi</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Eşleştirme gerektirir kaynakları etkinleştirmek</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Yeni filmler</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Oscar kazanan</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Film Tarzlar</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Filmler</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>Televizyon</value>
+  </data>
+</root>

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>Существует проблема с серверов корпорации Майкрософт. Повторите попытку позже.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>Самые популярные</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>Обзор наиболее популярных фильмов</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Далее</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Не найдено источников</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Покупка Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>поиск</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>поиск</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Сезон</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Суда истек</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Суда истек</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>Мы надеемся, что вам понравился ваш опыт работы с Xodus. Если вы хотите продолжать использовать этот продукт, нажмите «Покупка Xodus» ниже.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Перейти покупки Xodus в магазине</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>Доступно обновление</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Выполняется обновление</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Обновления доступны. Установить сейчас?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Курс 5 звезд</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Ваше мнение имеет решающее значение для улучшения это огромная приложения. Если вы часто использовать этот app и наслаждаться его функциональность, пойти в магазин и дать нам большой рейтинг с обратной связи!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Курс Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Загрузка</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>Самые популярные фильмы</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>Наиболее популярные телевизионные</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>Большинство проголосовали фильмы</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Поиск фильмов</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Поиск телевидения</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Телевизионные сети</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Загрузка</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Загрузка источников от </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>Чтобы воспроизвести это видео, требуется авторизация. Перейдите по ссылке ниже и нажмите «Пару» разрешить это устройство с этим поставщиком. Если вы не хотите, чтобы пара, нажмите кнопку «Отмена», чтобы попытки других источников.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Требуется авторизация</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Повторить</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>ОК</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Использовать</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Выберите файл субтитров</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Загрузка субтитры</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Поиск для субтитров при запуске воспроизведения</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Выбор языка</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>параметры</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>Сезон, который вы запрашиваете-то в будущем. Этот app не так хорошо!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Пробный режим</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Покупка Xodus отключить объявления</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Разрешить источники, которые требуют спаривать. Примечание: Наиболее высокой четкости содержание приходит из этих поставщиков, отключение их будет ограничивать ваши варианты</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>Список отслеживания</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Фильмы</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>Телевизионные шоу</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Добавлено в список интересующих вас игроков</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Добавить в список интересующих вас игроков</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Удалить из списка наблюдения</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Добавить в список интересующих вас игроков</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>о программе</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Контакт</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Разрешить источники, которые требуют спаривать</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Новые фильмы</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Оскар Победители</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Movie Жанры</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Фильмы</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>Телевидение</value>
+  </data>
+</root>

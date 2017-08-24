@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{E369286E-3A53-48BE-A14F-59BFE221AED0}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Xodus</RootNamespace>
+    <AssemblyName>Xodus</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.15063.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.15063.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WindowsXamlEnableOverview>true</WindowsXamlEnableOverview>
+    <PackageCertificateKeyFile>Xodus_StoreKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateThumbprint>173B87DF02A0CA357C2BCAD12C853DF61DABBB84</PackageCertificateThumbprint>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundle>Always</AppxBundle>
+    <AppxBundlePlatforms>x86|x64|arm</AppxBundlePlatforms>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+  </PropertyGroup>
+  <PropertyGroup Label="MultilingualAppToolkit">
+    <MultilingualAppToolkitVersion>4.0</MultilingualAppToolkitVersion>
+    <MultilingualFallbackLanguage>en-US</MultilingualFallbackLanguage>
+    <TranslationReport Condition="'$(Configuration)' == 'Release'">true</TranslationReport>
+    <SuppressPseudoWarning Condition="'$(Configuration)' == 'Debug'">true</SuppressPseudoWarning>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AesDecryption.cs" />
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CompositionShadow.xaml.cs">
+      <DependentUpon>CompositionShadow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CurrentTemperatureResponse.cs" />
+    <Compile Include="CurrentTime.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="FadeImageControl.xaml.cs">
+      <DependentUpon>FadeImageControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FanartResponse.cs" />
+    <Compile Include="GrabberSource.cs" />
+    <Compile Include="Imdb.cs" />
+    <Compile Include="indexers\BobbyHD.cs" />
+    <Compile Include="indexers\Playbox.cs" />
+    <Compile Include="indexers\CleanTitle.cs" />
+    <Compile Include="indexers\Dayt.cs" />
+    <Compile Include="indexers\GrabberDict.cs" />
+    <Compile Include="indexers\Indexer.cs" />
+    <Compile Include="indexers\IndexerHelper.cs" />
+    <Compile Include="indexers\Onemovies.cs" />
+    <Compile Include="indexers\Onseries.cs" />
+    <Compile Include="indexers\Plocker.cs" />
+    <Compile Include="indexers\Putlocker.cs" />
+    <Compile Include="indexers\Solarmovies.cs" />
+    <Compile Include="indexers\XMovies.cs" />
+    <Compile Include="indexers\YMovies.cs" />
+    <Compile Include="JSUnfuck.cs" />
+    <Compile Include="LoadingChangedEventArgs.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NavigationPage.xaml.cs">
+      <DependentUpon>NavigationPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="omdb.cs" />
+    <Compile Include="OmdbResponse.cs" />
+    <Compile Include="OpenWeatherMapAPI.cs" />
+    <Compile Include="PairDialog.xaml.cs">
+      <DependentUpon>PairDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="indexers\WatchFree.cs" />
+    <Compile Include="SearchDialog.xaml.cs">
+      <DependentUpon>SearchDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsPage.xaml.cs">
+      <DependentUpon>SettingsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Subscene.cs" />
+    <Compile Include="SubtitleConverter.cs" />
+    <Compile Include="SubtitleSelectionDialog.xaml.cs">
+      <DependentUpon>SubtitleSelectionDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tmdb.cs" />
+    <Compile Include="TmdbMovieResponse.cs" />
+    <Compile Include="TrialExpired.xaml.cs">
+      <DependentUpon>TrialExpired.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TVMaze.cs" />
+    <Compile Include="UpdatePage.xaml.cs">
+      <DependentUpon>UpdatePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <PRIResource Include="Assets\strings\en-US\Resources.resw" />
+    <PRIResource Include="Assets\strings\ar\Resources.resw" />
+    <PRIResource Include="Assets\strings\bs-Latn\Resources.resw" />
+    <PRIResource Include="Assets\strings\bg\Resources.resw" />
+    <PRIResource Include="Assets\strings\ca\Resources.resw" />
+    <PRIResource Include="Assets\strings\zh-Hans\Resources.resw" />
+    <PRIResource Include="Assets\strings\zh-Hant\Resources.resw" />
+    <PRIResource Include="Assets\strings\hr\Resources.resw" />
+    <PRIResource Include="Assets\strings\cs\Resources.resw" />
+    <PRIResource Include="Assets\strings\da\Resources.resw" />
+    <PRIResource Include="Assets\strings\nl\Resources.resw" />
+    <PRIResource Include="Assets\strings\en\Resources.resw" />
+    <PRIResource Include="Assets\strings\et\Resources.resw" />
+    <PRIResource Include="Assets\strings\fi\Resources.resw" />
+    <PRIResource Include="Assets\strings\fr\Resources.resw" />
+    <PRIResource Include="Assets\strings\de\Resources.resw" />
+    <PRIResource Include="Assets\strings\el\Resources.resw" />
+    <PRIResource Include="Assets\strings\he\Resources.resw" />
+    <PRIResource Include="Assets\strings\hi\Resources.resw" />
+    <PRIResource Include="Assets\strings\hu\Resources.resw" />
+    <PRIResource Include="Assets\strings\id\Resources.resw" />
+    <PRIResource Include="Assets\strings\it\Resources.resw" />
+    <PRIResource Include="Assets\strings\ja\Resources.resw" />
+    <PRIResource Include="Assets\strings\ko\Resources.resw" />
+    <PRIResource Include="Assets\strings\lv\Resources.resw" />
+    <PRIResource Include="Assets\strings\lt\Resources.resw" />
+    <PRIResource Include="Assets\strings\ms\Resources.resw" />
+    <PRIResource Include="Assets\strings\nb\Resources.resw" />
+    <PRIResource Include="Assets\strings\fa\Resources.resw" />
+    <PRIResource Include="Assets\strings\pl\Resources.resw" />
+    <PRIResource Include="Assets\strings\pt\Resources.resw" />
+    <PRIResource Include="Assets\strings\ro\Resources.resw" />
+    <PRIResource Include="Assets\strings\ru\Resources.resw" />
+    <PRIResource Include="Assets\strings\sr-Cyrl\Resources.resw" />
+    <PRIResource Include="Assets\strings\sr-Latn\Resources.resw" />
+    <PRIResource Include="Assets\strings\sk\Resources.resw" />
+    <PRIResource Include="Assets\strings\sl\Resources.resw" />
+    <PRIResource Include="Assets\strings\es\Resources.resw" />
+    <PRIResource Include="Assets\strings\sv\Resources.resw" />
+    <PRIResource Include="Assets\strings\th\Resources.resw" />
+    <PRIResource Include="Assets\strings\tr\Resources.resw" />
+    <PRIResource Include="Assets\strings\uk\Resources.resw" />
+    <PRIResource Include="Assets\strings\vi\Resources.resw" />
+    <PRIResource Include="Assets\strings\cy\Resources.resw" />
+    <None Include="Xodus_StoreKey.pfx" />
+    <None Include="Xodus_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\01d.png" />
+    <Content Include="Assets\01n.png" />
+    <Content Include="Assets\02d.png" />
+    <Content Include="Assets\02n.png" />
+    <Content Include="Assets\03d.png" />
+    <Content Include="Assets\03n.png" />
+    <Content Include="Assets\04d.png" />
+    <Content Include="Assets\04n.png" />
+    <Content Include="Assets\09d.png" />
+    <Content Include="Assets\09n.png" />
+    <Content Include="Assets\10d.png" />
+    <Content Include="Assets\10n.png" />
+    <Content Include="Assets\11d.png" />
+    <Content Include="Assets\11n.png" />
+    <Content Include="Assets\13d.png" />
+    <Content Include="Assets\13n.png" />
+    <Content Include="Assets\50d.png" />
+    <Content Include="Assets\50n.png" />
+    <Content Include="Assets\LargeTile.scale-100.png" />
+    <Content Include="Assets\LargeTile.scale-125.png" />
+    <Content Include="Assets\LargeTile.scale-150.png" />
+    <Content Include="Assets\LargeTile.scale-200.png" />
+    <Content Include="Assets\LargeTile.scale-400.png" />
+    <Content Include="Assets\movies.png" />
+    <Content Include="Assets\popular.png" />
+    <Content Include="Assets\retrotv.png" />
+    <Content Include="Assets\SmallTile.scale-100.png" />
+    <Content Include="Assets\SmallTile.scale-125.png" />
+    <Content Include="Assets\SmallTile.scale-150.png" />
+    <Content Include="Assets\SmallTile.scale-200.png" />
+    <Content Include="Assets\SmallTile.scale-400.png" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\SplashScreen.scale-125.png" />
+    <Content Include="Assets\SplashScreen.scale-150.png" />
+    <Content Include="Assets\SplashScreen.scale-400.png" />
+    <Content Include="Assets\Square150x150Logo.scale-100.png" />
+    <Content Include="Assets\Square150x150Logo.scale-125.png" />
+    <Content Include="Assets\Square150x150Logo.scale-150.png" />
+    <Content Include="Assets\Square150x150Logo.scale-400.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-16.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-256.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-32.png" />
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-48.png" />
+    <Content Include="Assets\Square44x44Logo.scale-100.png" />
+    <Content Include="Assets\Square44x44Logo.scale-125.png" />
+    <Content Include="Assets\Square44x44Logo.scale-150.png" />
+    <Content Include="Assets\Square44x44Logo.scale-400.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-16.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-256.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-32.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-48.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\StoreLogo.scale-125.png" />
+    <Content Include="Assets\StoreLogo.scale-150.png" />
+    <Content Include="Assets\StoreLogo.scale-200.png" />
+    <Content Include="Assets\StoreLogo.scale-400.png" />
+    <Content Include="Assets\tv.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-100.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-125.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-150.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <None Include="Package.StoreAssociation.xml" />
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="CompositionShadow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FadeImageControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.DeviceFamily-Xbox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="NavigationPage.DeviceFamily-Xbox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NavigationPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PairDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SearchDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SettingsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SubtitleSelectionDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TenFoot.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Page>
+    <Page Include="TrialExpired.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpdatePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AsyncEnumerator">
+      <Version>2.1.0</Version>
+    </PackageReference>
+    <PackageReference Include="HockeySDK.UWP">
+      <Version>4.1.6</Version>
+    </PackageReference>
+    <PackageReference Include="HtmlAgilityPack">
+      <Version>1.4.9.5</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
+      <Version>5.3.3</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Services.Store.SDK">
+      <Version>10.1705.8001</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Toolkit.Uwp.DeveloperTools">
+      <Version>1.4.1</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Toolkit.Uwp.UI.Controls">
+      <Version>1.4.1</Version>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.JSON">
+      <Version>10.0.2</Version>
+    </PackageReference>
+    <PackageReference Include="System.ValueTuple">
+      <Version>4.3.1</Version>
+    </PackageReference>
+    <PackageReference Include="UniversalRateReminder">
+      <Version>2.2.0</Version>
+    </PackageReference>
+    <PackageReference Include="WriteableBitmapEx">
+      <Version>1.5.1</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CloudFlareUtilities\CloudFlareUtilities\CloudFlareUtilities.csproj">
+      <Project>{0e2c040d-3f8d-4d96-94a4-eb752b8503c5}</Project>
+      <Name>CloudFlareUtilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UrlResolver\UrlResolver.csproj">
+      <Project>{d6e97420-7725-493a-941e-3c10b8f78ef6}</Project>
+      <Name>UrlResolver</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <XliffResource Include="MultilingualResources\Xodus.ar.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.bg.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.bs-Latn.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.ca.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.cs.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.cy.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.da.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.de.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.el.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.en.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.es.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.et.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.fa.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.fi.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.fr.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.he.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.hi.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.hr.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.hu.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.id.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.it.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.ja.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.ko.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.lt.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.lv.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.ms.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.nb.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.nl.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.pl.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.pt.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.ro.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.ru.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.sk.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.sl.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.sr-Cyrl.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.sr-Latn.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.sv.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.th.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.tr.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.uk.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.vi.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.zh-Hans.xlf" />
+    <XliffResource Include="MultilingualResources\Xodus.zh-Hant.xlf" />
+  </ItemGroup>
+  <ItemGroup>
+    <SDKReference Include="Microsoft.VCLibs, Version=14.0">
+      <Name>Visual C++ 2015 Runtime for Universal Windows Platform Apps</Name>
+    </SDKReference>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Multilingual App Toolkit\Microsoft.Multilingual.PriResources.targets" Label="MultilingualAppToolkit" Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\Multilingual App Toolkit\v$(MultilingualAppToolkitVersion)\Microsoft.Multilingual.PriResources.targets')" />
+  <Target Name="MATPrerequisite" BeforeTargets="PrepareForBuild" Condition="!Exists('$(MSBuildExtensionsPath)\Microsoft\Multilingual App Toolkit\Microsoft.Multilingual.PriResources.targets')" Label="MultilingualAppToolkit">
+    <Warning Text="$(MSBuildProjectFile) is Multilingual build enabled, but the Multilingual App Toolkit is unavailable during the build. If building with Visual Studio, please check to ensure that toolkit is properly installed." />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

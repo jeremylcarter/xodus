@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>マイクロソフト社のサーバーに問題があります。後でもう一度試してください。</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>人気順</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>最も人気のある映画を参照します。</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>次へ</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>いいえ</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>ないソースが見つかりませんでした。</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>20120118 田中を購入します。</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>シーズン</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>試用版の有効期限が切れてください。</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>試用版の有効期限が切れてください。</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>20120118 田中とあなたの経験を楽しんできたと思います。この製品を引き続き使用する場合は、以下「購入 20120118 田中 ' をクリックします。</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>20120118 田中ストアでの購入します。</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>更新プログラムが利用可能</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>更新が進行中です</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>更新プログラムがあります。今すぐインストールしますか。</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>はい</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>5 つ星を評価します。</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>あなたのフィードバックは、この素晴らしいアプリケーションを改善するため重要です。このアプリを頻繁に使用するとそれの機能を楽しむ店に行くし、私たちのフィードバックと偉大な評価を与える!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>レート 20120118 田中</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>ロード中</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>最も人気のある映画</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>最も人気のあるテレビ</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>最も投票された映画</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>映画の検索</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>検索テレビ</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>テレビ ネットワーク</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>ロード中</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>ソースを読み込んでください。</value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>このビデオを再生するには、承認が必要です。下のリンクを訪問し、'ペア' このプロバイダーを使ってこのデバイスを許可する] をクリックします。ペアにしたくない場合は、しようとする他のソースには、[キャンセル] をクリックします。</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>認証が必要です。</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>再試行</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>使用</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>字幕ファイルを選択します。</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>字幕の読み込み</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>再生を開始するときに字幕を検索します。</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>言語の選択</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>要求したシーズンは、将来的にいつかは。このアプリは良いことではない!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>試用モード</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>購入 20120118 田中の広告を無効にするには</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>ペアリングが必要なソースを有効にします。注: 最も高精細コンテンツがこれらのプロバイダーから、それらを無効にするオプションを制限します。</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>ウォッチリスト</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>映画</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>テレビ番組</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>ウォッチ ・ リストに追加</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>ウォッチ ・ リストに追加します。</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>ウォッチ リストから削除します。</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>ウォッチ ・ リストに追加します。</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>バージョン情報</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>問い合わせ先</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>ペアリングが必要なソースを有効にします。</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>新作映画</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>アカデミー賞受賞者</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>映画ジャンル</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>映画</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>テレビ</value>
+  </data>
+</root>

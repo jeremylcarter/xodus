@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>Obstaja problem z Microsoftovih strežnikov. Poskusite znova pozneje.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>Najbolj priljubljeno</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>Brskanje najbolj popularni filmi</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Naprej</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Ne</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Ni virov našel</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Nakup Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>Prekliči</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>Iskanje</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>Iskanje</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Sezona</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Poskus izdihniti</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Poskus izdihniti</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>Upamo, da ste uživali vaše izkušnje z Xodus. Če želite še naprej uporabljati ta izdelek, kliknite "Nakup Xodus" spodaj.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Šel kupi Xodus v shrambi</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>Na voljo je posodobitev</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Izvaja se posodobitev</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Posodobitve so na voljo. Namestiti zdaj?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Da</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Stopnja 5 zvezdic</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>Prekliči</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Vaša povratna informacija je bistvenega pomena za izboljšanje super aplikacijo. Če uporabljate to app in uživajte je funkcionalnost, pojdite v trgovino in nam veliko rating povratne informacije!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Stopnja Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Nalaganje</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>Najbolj priljubljenih filmov</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>Najbolj priljubljenih televizijskih</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>Večina glasoval filmi</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Iskanje filmi</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Išči televizijskih</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Televizijske mreže</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Nalaganje</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Nalaganje virov iz </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>Igrati ta video, je potrebno dovoljenje. Obiščite spodnjo povezavo in kliknite "Par" dovoli to napravo s tem ponudnikom. Če ne želite, da par, kliknite »Prekliči« , da poskuša drugih virov.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Dovoljenja zahtevanega</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Prekliči</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Poskusi znova</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>V redu</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Uporabi</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Izberite datoteko podnaslov</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Tovor podnapisi</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Iščete podnapisi ko se začne predvajanje</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Izbira jezika</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Nastavitve</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>Sezona, ki ste jih zahtevali je enkrat v prihodnosti. Ta app ni tako dobra!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Poskus način</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Nakup Xodus v onesposobiti oglasi</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Omogočanje virov, ki zahtevajo seznanitev. Opomba: Večina vrhoven Definition vsebina prihaja iz teh ponudnikov, onesposobiti jih omeji možnosti</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>Moj seznam za spremljanje</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Filmi</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>Televizijskih oddajah</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Dodati opazovanja</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Dodati opazovanja</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Odstranite iz opazovanja</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Dodati opazovanja</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>Vizitka</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Stik</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Omogočanje virov, ki zahtevajo seznanitev</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Novi filmi</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Oscar zmagovalci</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Filmski žanri</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Filmi</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>Televizija</value>
+  </data>
+</root>

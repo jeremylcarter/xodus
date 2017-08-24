@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>Đó là một vấn đề với các máy chủ của Microsoft. Thử lại sau.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>Phổ biến Nhất</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>Duyệt qua những bộ phim phổ biến nhất</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Tiếp theo</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Không</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Nguồn không tìm thấy</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Mua Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>Hủy bỏ</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>Tìm kiếm</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>Tìm kiếm</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Phần</value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Dùng thử hết hạn</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Dùng thử hết hạn</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>Chúng tôi hy vọng bạn đã rất thích kinh nghiệm của bạn với Xodus. Nếu bạn muốn tiếp tục sử dụng sản phẩm này, nhấp vào 'Mua Xodus' bên dưới.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Đi mua Xodus trong các cửa hàng</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>Đã có Bản cập nhật</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Cập Nhật tiến độ</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Bản Cập Nhật có sẵn. Cài đặt bây giờ?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Có</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Tỷ lệ 5 sao</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>Hủy bỏ</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Phản hồi của bạn là quan trọng đối với việc cải thiện ứng dụng tuyệt vời này. Nếu bạn thường sử dụng ứng dụng này và tận hưởng chức năng của nó, đi đến các cửa hàng và cung cấp cho chúng tôi một đánh giá tuyệt vời với thông tin phản hồi!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Tỷ lệ Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Đang nạp</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>Phim phổ biến nhất</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>Truyền hình phổ biến nhất</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>Hầu hết các bình chọn phim</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Tìm phim</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Tìm kiếm truyền hình</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Mạng lưới truyền hình</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Đang nạp</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Tải nguồn từ </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>Để chơi video này, ủy quyền được yêu cầu. Truy cập vào liên kết dưới đây và bấm vào 'Cặp' cho phép thiết bị này với nhà cung cấp này. Nếu bạn không muốn cặp, bấm 'Hủy bỏ' để tìm các nguồn khác.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Cho phép yêu cầu</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Hủy bỏ</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Thử lại</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Sử dụng</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Chọn tập tin phụ đề</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Tải phụ đề</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Tìm kiếm phụ đề khi bắt đầu phát lại</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Chọn ngôn ngữ</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Thiết đặt</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>Mùa bạn đã yêu cầu là đôi khi trong tương lai. Ứng dụng này không phải là những gì tốt!!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Chế độ dùng thử</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Mua Xodus để vô hiệu hóa quảng cáo</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Cho phép các nguồn cần ghép nối. Lưu ý: Hầu hết High Definition nội dung đến từ các nhà cung cấp, vô hiệu hóa chúng sẽ hạn chế lựa chọn của bạn</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>Danh sách xem của tôi</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Phim</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>Chương trình truyền hình</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Thêm vào watchlist</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Thêm vào Watchlist</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Hủy bỏ từ Watchlist</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Thêm vào Watchlist</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>Giới thiệu</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Liên lạc</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Sử nguồn cần ghép nối</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Phim mới</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Người đoạt giải Oscar</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Thể loại phim</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Phim</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>TV</value>
+  </data>
+</root>

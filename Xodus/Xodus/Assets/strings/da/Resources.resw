@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>Der er et problem med Microsofts servere. Prøv igen senere.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>Mest populære</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>Gennemse de mest populære film</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Næste</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Nej</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Ingen kilder fundet</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Køb Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>Annuller</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>Søg</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>Søg</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Sæson </value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Retssag udløbet</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Retssag udløbet</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>Vi håber du har nydt din erfaring med Xodus. Hvis du vil fortsætte med at bruge dette produkt, skal du klikke på 'Køb Xodus' nedenfor.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Gå købe Xodus i butikken</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>Opdatering tilgængelig</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Opdatering er i gang</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Opdateringer er tilgængelige. Installer nu?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Sats 5 stjerner</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>Annuller</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Din feedback er afgørende for at forbedre denne awesome program. Hvis du ofte bruger denne app og nyde det funktionalitet, gå til butikken og give os en stor rating med feedback!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Rate Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Laste</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>Mest populære film</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>Mest populære tv</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>De fleste stemte film</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Søg efter film</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Søg fjernsyn</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Tv-net</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Laste</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Indlæsning af kilder fra </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>For at afspille denne video, er autorisation påkrævet. Besøg linket nedenfor og klik på 'Pair' for at tillade denne enhed med denne provider. Hvis du ikke ønsker at parre, skal du klikke på 'Annuller' for at prøve andre kilder.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Godkendelse er påkrævet</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Annuller</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Forsøg igen</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>I orden</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Brug</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Vælg Subtitle fil</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Indlæse undertekster</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Søg efter undertekster, når du starter afspilning</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Vælg sprog</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>Indstillinger</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>Sæson du har anmodet om er engang i fremtiden. Denne app er ikke så god!!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Prøveperiode tilstand</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Køb Xodus at deaktivere reklamer</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Aktiver kilder, der kræver parring. Bemærk: De fleste High Definition indhold kommer fra disse udbydere, forhindrede dem vil begrænse dine muligheder</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>Observationsliste</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Film</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>TV-Shows</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Tilføjet til overvågningsliste</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Tilføj til overvågningsliste</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Fjern fra Watchlist</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Tilføj til overvågningsliste</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>Om</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Aktivere kilder, der kræver parring</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Nye film</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Oscar vindere</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Film genrer</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Film</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>Tv</value>
+  </data>
+</root>

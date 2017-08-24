@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MicrosoftServer" xml:space="preserve">
+    <value>C'è un problema con i server di Microsoft. Riprovare più tardi.</value>
+  </data>
+  <data name="MostPopular" xml:space="preserve">
+    <value>Più popolari</value>
+  </data>
+  <data name="MostPopularDescription" xml:space="preserve">
+    <value>Sfoglia i film più popolari</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Successivo</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="NoSources" xml:space="preserve">
+    <value>Nessuna fonte trovata</value>
+  </data>
+  <data name="Purchase.Content" xml:space="preserve">
+    <value>Acquisto Xodus</value>
+  </data>
+  <data name="SearchDialogCancel" xml:space="preserve">
+    <value>Annulla</value>
+  </data>
+  <data name="SearchDialogOK" xml:space="preserve">
+    <value>Cerca</value>
+  </data>
+  <data name="SearchDialogTitle" xml:space="preserve">
+    <value>Cerca</value>
+  </data>
+  <data name="Season" xml:space="preserve">
+    <value>Stagione </value>
+  </data>
+  <data name="TrialExpired.Text" xml:space="preserve">
+    <value>Versione di prova scaduta</value>
+  </data>
+  <data name="TrialExpiredCaption" xml:space="preserve">
+    <value>Versione di prova scaduta</value>
+  </data>
+  <data name="TrialExpiredContent.Text" xml:space="preserve">
+    <value>Speriamo che ti sia piaciuta la tua esperienza con Xodus. Se si desidera continuare a utilizzare questo prodotto, clicca 'Acquisto Xodus' qui sotto.</value>
+  </data>
+  <data name="TrialExpiredText" xml:space="preserve">
+    <value>Andare acquistare Xodus in store</value>
+  </data>
+  <data name="UpdateCaption" xml:space="preserve">
+    <value>Aggiornamento disponibile</value>
+  </data>
+  <data name="UpdateProgress.Text" xml:space="preserve">
+    <value>Aggiornamento in corso</value>
+  </data>
+  <data name="UpdateText" xml:space="preserve">
+    <value>Gli aggiornamenti sono disponibili. Installare ora?</value>
+  </data>
+  <data name="YES" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="RateButton" xml:space="preserve">
+    <value>Tasso 5 stelle</value>
+  </data>
+  <data name="RateCancel" xml:space="preserve">
+    <value>Annulla</value>
+  </data>
+  <data name="RateContent" xml:space="preserve">
+    <value>Il tuo feedback è fondamentale per migliorare questa applicazione impressionante. Se si utilizza questa applicazione spesso e godere della sua funzionalità, andare al negozio e ci danno un ottimo voto con feedback!</value>
+  </data>
+  <data name="RateTitle" xml:space="preserve">
+    <value>Tasso Xodus</value>
+  </data>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Carico</value>
+  </data>
+  <data name="MostPopularMovies" xml:space="preserve">
+    <value>Film più popolari</value>
+  </data>
+  <data name="MostPopularTelevision" xml:space="preserve">
+    <value>Più popolare della televisione</value>
+  </data>
+  <data name="MostVotedMovies" xml:space="preserve">
+    <value>La maggior parte hanno votato i film</value>
+  </data>
+  <data name="SearchAllMovies" xml:space="preserve">
+    <value>Cerca film</value>
+  </data>
+  <data name="SearchAllTelevision" xml:space="preserve">
+    <value>Ricerca TV</value>
+  </data>
+  <data name="TelevisionNetworks" xml:space="preserve">
+    <value>Reti televisive</value>
+  </data>
+  <data name="LoadingText.Text" xml:space="preserve">
+    <value>Carico</value>
+  </data>
+  <data name="LoadingSources" xml:space="preserve">
+    <value>Caricamento di fonti </value>
+  </data>
+  <data name="PairContent.Text" xml:space="preserve">
+    <value>Per riprodurre questo video, è necessaria l'autorizzazione. Visita il link qui sotto e clicca 'Coppia' per autorizzare questo dispositivo con questo provider. Se non si desidera coppia, fare clic su 'Annulla' per cercare altre fonti.</value>
+  </data>
+  <data name="AuthorizationRequired" xml:space="preserve">
+    <value>Autorizzazione necessaria</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Annulla</value>
+  </data>
+  <data name="Retry" xml:space="preserve">
+    <value>Riprova</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Usa</value>
+  </data>
+  <data name="SubsTitle" xml:space="preserve">
+    <value>Selezionare il File dei sottotitoli</value>
+  </data>
+  <data name="LoadingSubtitles" xml:space="preserve">
+    <value>Caricamento di sottotitoli</value>
+  </data>
+  <data name="EnableSubtitles.Text" xml:space="preserve">
+    <value>Ricerca per i sottotitoli quando si avvia la riproduzione</value>
+  </data>
+  <data name="SelectLanguage.Text" xml:space="preserve">
+    <value>Seleziona lingua</value>
+  </data>
+  <data name="Settings.Text" xml:space="preserve">
+    <value>impostazioni</value>
+  </data>
+  <data name="UpcomingSeason" xml:space="preserve">
+    <value>La stagione che hai richiesto è un momento nel futuro. Questa app non è così buono!!</value>
+  </data>
+  <data name="TrialModeCaption" xml:space="preserve">
+    <value>Modalità di prova</value>
+  </data>
+  <data name="TrialModeContent" xml:space="preserve">
+    <value>Acquisto Xodus disabilitare: annunci</value>
+  </data>
+  <data name="PairedProvider.Text" xml:space="preserve">
+    <value>Attivare le fonti che richiedono l'abbinamento. Nota: la maggior parte alta definizione contenuto proviene da questi provider, disattivandoli limiterà le opzioni</value>
+  </data>
+  <data name="Favorites" xml:space="preserve">
+    <value>Portafoglio personale</value>
+  </data>
+  <data name="Movies" xml:space="preserve">
+    <value>Film</value>
+  </data>
+  <data name="Television" xml:space="preserve">
+    <value>Serie televisive</value>
+  </data>
+  <data name="AddedWatchlist" xml:space="preserve">
+    <value>Aggiunto alla watchlist</value>
+  </data>
+  <data name="AddToWatchlist.Text" xml:space="preserve">
+    <value>Aggiungi alla Watchlist</value>
+  </data>
+  <data name="RemoveFromWatchlist" xml:space="preserve">
+    <value>Rimuovere dalla Watchlist</value>
+  </data>
+  <data name="AddToWatchlistReal" xml:space="preserve">
+    <value>Aggiungi alla Watchlist</value>
+  </data>
+  <data name="About.Text" xml:space="preserve">
+    <value>Informazioni su</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Contatti</value>
+  </data>
+  <data name="PairedProvider2.Text" xml:space="preserve">
+    <value>Attivare le fonti che richiedono l'abbinamento</value>
+  </data>
+  <data name="NewMovies" xml:space="preserve">
+    <value>Film nuovi</value>
+  </data>
+  <data name="BestPicture" xml:space="preserve">
+    <value>Vincitori di Oscar</value>
+  </data>
+  <data name="MovieGenres" xml:space="preserve">
+    <value>Generi di film</value>
+  </data>
+  <data name="MoviesPage" xml:space="preserve">
+    <value>Film</value>
+  </data>
+  <data name="TelevisionPage" xml:space="preserve">
+    <value>Televisione</value>
+  </data>
+</root>
